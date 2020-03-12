@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->>
+<text class="title">Hello world 这个是知识点1</text>
+<button size="mini">进入</button>
